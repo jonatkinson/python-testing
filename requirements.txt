@@ -1,5 +1,5 @@
 pytest
-pytest-sugar
 pytest-django
 pytest-watch
 pytest-testmon
+pytest-cov
